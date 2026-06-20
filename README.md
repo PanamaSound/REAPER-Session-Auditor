@@ -18,7 +18,7 @@ I am a studio engineer, not a professional software developer. I built this scri
 **Community contributions are highly encouraged!** If you find a bug, have an idea for a feature, or want to refactor the code, please submit a Pull Request.
 
 ## Installation
-1. Download `REAPER_Session_auditor.lua`.
+1. Download `REAPER_Session_Auditor.lua`.
 2. Move it to your REAPER Scripts folder: `Options > Show REAPER resource path in explorer/finder > Scripts`.
 3. Run it via the Action List (`Actions > Show action list > New Action > Load ReaScript`).
 
