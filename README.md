@@ -15,6 +15,9 @@ This tool was created to solve specific recording safety needs at **Panama Sound
 ## Maintenance Note
 I am a studio engineer, not a professional software developer. I built this script iteratively using AI assistance. It works reliably in our production environment, but I am not personally maintaining it as a commercial product. 
 
+## Frequently Asked Questions
+Please see the FAQ at: https://github.com/PanamaSound/REAPER-Session-Auditor/blob/main/FAQ.md
+
 **Community contributions are highly encouraged!** If you find a bug, have an idea for a feature, or want to refactor the code, please submit a Pull Request.
 
 ## Installation
