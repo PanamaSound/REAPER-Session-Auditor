@@ -1,1 +1,5 @@
-._REAPER_Session_Auditor.lua
+# macOS system files
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
