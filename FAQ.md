@@ -57,7 +57,7 @@ It's designed around a single scheduler loop with independently-timed, throttled
 
 Yes — thresholds, intervals, marker spacing, which features are enabled (e.g. the generated track notes block), and output paths are all configurable at the top of the script.
 
-### Dos it work on Windows?
+### Does it work on Windows?
 
 Not at this time. Hopefully somebody steps up to make that happen.
 
