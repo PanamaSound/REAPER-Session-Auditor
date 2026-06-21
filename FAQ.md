@@ -57,6 +57,10 @@ It's designed around a single scheduler loop with independently-timed, throttled
 
 Yes — thresholds, intervals, marker spacing, which features are enabled (e.g. the generated track notes block), and output paths are all configurable at the top of the script.
 
+### Dos it work on Windows?
+
+Not at this time. Hopefully somebody steps up to make that happen.
+
 ### What won't this do? (out of scope)
 
 - **No waveform-level DSP analysis.** No click/pop/glitch detection on the audio itself, no spectral analysis. It watches REAPER/engine state, not the signal.
